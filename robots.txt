@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-freelance-hourly-rate-calc.enjoy-onepage.com/sitemap.xml
