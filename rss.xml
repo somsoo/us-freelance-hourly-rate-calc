@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</title>
+  <title>Freelance Hourly Rate Calculator</title>
   <link>https://us-freelance-hourly-rate-calc.enjoy-onepage.com/</link>
-  <description>Convert your desired annual income into a profitable freelance hourly billing rate. Accounts for taxes, healthcare, billable hours, and overhead.</description>
+  <description>Calculate your true freelance hourly rate from target salary, taxes, and costs.</description>
   <language>en-us</language>
   <atom:link href="https://us-freelance-hourly-rate-calc.enjoy-onepage.com/rss.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 29 Sep 2026 06:02:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 01:49:15 +0000</lastBuildDate>
   <item>
-    <title>Disclaimer | Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</title>
+    <title>Disclaimer | Freelance Hourly Rate Calculator</title>
     <link>https://us-freelance-hourly-rate-calc.enjoy-onepage.com/disclaimer.html</link>
     <guid isPermaLink="true">https://us-freelance-hourly-rate-calc.enjoy-onepage.com/disclaimer.html</guid>
-    <description>Disclaimer | Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</description>
-    <pubDate>Sun, 20 Sep 2026 22:09:53 +0900</pubDate>
+    <description>Disclaimer for the Freelance Hourly Rate Calculator.</description>
+    <pubDate>Mon, 19 Oct 2026 01:49:15 +0000</pubDate>
   </item>
   <item>
-    <title>Terms of Service | Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</title>
-    <link>https://us-freelance-hourly-rate-calc.enjoy-onepage.com/terms.html</link>
-    <guid isPermaLink="true">https://us-freelance-hourly-rate-calc.enjoy-onepage.com/terms.html</guid>
-    <description>Terms of Service | Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</description>
-    <pubDate>Sun, 20 Sep 2026 22:09:53 +0900</pubDate>
-  </item>
-  <item>
-    <title>Privacy Policy | Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</title>
+    <title>Privacy Policy | Freelance Hourly Rate Calculator</title>
     <link>https://us-freelance-hourly-rate-calc.enjoy-onepage.com/privacy.html</link>
     <guid isPermaLink="true">https://us-freelance-hourly-rate-calc.enjoy-onepage.com/privacy.html</guid>
-    <description>Privacy Policy | Freelance Hourly Rate Calculator | Desired Salary to Billable Rate</description>
-    <pubDate>Sun, 20 Sep 2026 22:09:53 +0900</pubDate>
+    <description>Privacy Policy for the Freelance Hourly Rate Calculator.</description>
+    <pubDate>Mon, 19 Oct 2026 01:49:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>Terms of Service | Freelance Hourly Rate Calculator</title>
+    <link>https://us-freelance-hourly-rate-calc.enjoy-onepage.com/terms.html</link>
+    <guid isPermaLink="true">https://us-freelance-hourly-rate-calc.enjoy-onepage.com/terms.html</guid>
+    <description>Terms of Service for the Freelance Hourly Rate Calculator.</description>
+    <pubDate>Mon, 19 Oct 2026 01:49:15 +0000</pubDate>
   </item>
 </channel>
 </rss>
