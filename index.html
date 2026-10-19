@@ -145,6 +145,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
   };
 })();
 </script>
+<style id="global-quality-shield">
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+  .ad-bottom, .ad-bottom ins {
+    min-height: 280px !important;
+    background: transparent !important;
+  }
+  :focus-visible {
+    outline: 2px solid #2563eb !important;
+    outline-offset: 2px !important;
+  }
+</style>
 </head>
 <body>
 
@@ -169,22 +185,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
       <div class="form-grid">
         <div>
           <label for="targetNetIncome" class="lbl">Desired Annual Take-Home ($)</label>
-          <input type="number" id="targetNetIncome" class="input" value="85000" min="0" step="1000">
+          <input type="number" id="targetNetIncome" class="input" value="85000" min="0" step="1000" inputmode="numeric">
           <div class="src" style="margin:2px 0 0">After taxes &amp; expenses</div>
         </div>
         <div>
           <label for="taxRatePct" class="lbl">Effective Tax Rate (SE + Fed/State %)</label>
-          <input type="number" id="taxRatePct" class="input" value="30" min="10" max="50" step="1">
+          <input type="number" id="taxRatePct" class="input" value="30" min="10" max="50" step="1" inputmode="numeric">
           <div class="src" style="margin:2px 0 0">Typical: 25% - 35% for 1099</div>
         </div>
         <div>
           <label for="annualBizExpenses" class="lbl">Annual Business Overhead ($)</label>
-          <input type="number" id="annualBizExpenses" class="input" value="6000" min="0" step="250">
+          <input type="number" id="annualBizExpenses" class="input" value="6000" min="0" step="250" inputmode="numeric">
           <div class="src" style="margin:2px 0 0">Software, hardware, legal, hosting</div>
         </div>
         <div>
           <label for="annualHealthBenefits" class="lbl">Annual Health &amp; Retirement ($)</label>
-          <input type="number" id="annualHealthBenefits" class="input" value="7200" min="0" step="250">
+          <input type="number" id="annualHealthBenefits" class="input" value="7200" min="0" step="250" inputmode="numeric">
           <div class="src" style="margin:2px 0 0">ACA health, dental, Solo 401(k)</div>
         </div>
       </div>
@@ -193,12 +209,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;b
       <div class="form-grid">
         <div>
           <label for="workWeeksYear" class="lbl">Weeks Worked per Year</label>
-          <input type="number" id="workWeeksYear" class="input" value="48" min="30" max="52" step="1">
+          <input type="number" id="workWeeksYear" class="input" value="48" min="30" max="52" step="1" inputmode="numeric">
           <div class="src" style="margin:2px 0 0">52 weeks minus 4 wks PTO/sick</div>
         </div>
         <div>
           <label for="weeklyHours" class="lbl">Total Hours Worked per Week</label>
-          <input type="number" id="weeklyHours" class="input" value="40" min="10" max="80" step="1">
+          <input type="number" id="weeklyHours" class="input" value="40" min="10" max="80" step="1" inputmode="numeric">
           <div class="src" style="margin:2px 0 0">Standard total work week</div>
         </div>
       </div>
